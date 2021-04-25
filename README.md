@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/IMG_20210421_133826.jpg">
 SIGIT - Simple Information Gathering Toolkit
 
-### Features
+### Features [Einglish]
 - ```userrecon```    - username reconnaissance
 - ```facedumper```   - dump facebook information
 - ```mailfinder``` - find email with specific name
@@ -15,6 +15,21 @@ SIGIT - Simple Information Gathering Toolkit
 - ```dnsfinder``` - find host domain name system
 - ```riplookup``` - reverse ip lookup
 - ```iplocation``` - ip to location tracker
+
+### Features [Arabic]
+- ```userrecon```    - استطلاع اسم المستخدم
+- ```facedumper```   - تفريغ معلومات الفيسبوك
+- ```mailfinder``` - البحث عن بريد إلكتروني باسم محدد
+- ```godorker``` - دوركينغ مع بحث جوجل
+- ```phoneinfo``` - معلومات رقم الهاتف
+- ```dnslookup``` - معلومات حول اسم الدومين
+- ```whoislookup``` - جمع معلةمات حول اسم الدومين
+- ```sublookup``` - بحث عن الشبكات التى يستخدمه موقع
+- ```hostfinder``` - البحث عن المجال المضيف
+- ```dnsfinder``` - البحث عن نظام اسم المجال المضيف
+- ```riplookup``` - البحث العكسي عن بروتوكول الإنترنت
+- ```iplocation``` - IP إلى تعقب الموقع
+
 
 ### Setup
 - Installation on termux
