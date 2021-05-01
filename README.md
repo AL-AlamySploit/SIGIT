@@ -1,5 +1,5 @@
 <img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-SIGIT-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="SIGIT" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/IMG_20210421_133826.jpg">
+<img src="https://raw.githubusercontent.com/AL-AlamySploit/SIGIT/main/src/IMG_20210421_133826.jpg">
 SIGIT - Simple Information Gathering Toolkit
 
 ### Features [Einglish]
@@ -34,14 +34,14 @@ SIGIT - Simple Information Gathering Toolkit
 ### Setup
 - Installation on termux
 ```bash
-pkg install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/install.sh && bash install.sh
+pkg install wget && wget https://raw.githubusercontent.com/AL-AlamySploit/SIGIT/main/install.sh && bash install.sh
 ```
 - Installation on kali linux
 ```bash
-apt-get install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/installkali.sh && bash installkali.sh
+apt-get install wget && wget https://raw.githubusercontent.com/AL-AlamySploit/SIGIT/main/installkali.sh && bash installkali.sh
 ```
 - Uninstallation
 - termux: ```rm -rf $PREFIX/bin/sigit```
 - kali  : ```rm -rf /usr/local/bin/sigit```
 ### Credits
-Copyright © 2021 by <a href="https://facebook.com/termuxhackers.id">@termuxhackers.id</a>
+Copyright © 2021 by <a href="https://facebook.com/Ahmed.ALAlamy7y">@termuxhackers.id</a>
