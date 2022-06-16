@@ -23,7 +23,7 @@ SIGIT - Simple Information Gathering Toolkit
 - ```godorker``` - دوركينغ مع بحث جوجل
 - ```phoneinfo``` - معلومات رقم الهاتف
 - ```dnslookup``` - معلومات حول اسم الدومين
-- ```whoislookup``` - جمع معلةمات حول اسم الدومين
+- ```whoislookup``` - جمع معل,مات حول اسم الدومين
 - ```sublookup``` - بحث عن الشبكات التى يستخدمه موقع
 - ```hostfinder``` - البحث عن المجال المضيف
 - ```dnsfinder``` - البحث عن نظام اسم المجال المضيف
